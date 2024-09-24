@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaCisHacked
-- 👀 I’m interested in Bughunting 
-- 🌱 I’m currently learning Ethical hacking
-- 💞️ I’m looking to collaborate on Learning bug hunting
+- 👀 I’m interested in Computers and Networks
+- 🌱 I’m currently learning Penetration Testing and bugbounties
+- 💞️ I’m looking to collaborate on projects to learn new skills 
 - 📫 How to reach me - mail me at marzanchoa@gmail.com
 
 <!---
