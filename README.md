@@ -11,7 +11,7 @@ About Me
 
 🔭 In my spare time, I like exploring open-source security tools anf bug bounty programs.
 
-📫 How to reach me - mail me at rongfidato@gmail.com
+📫 How to reach me - email me at rongfidato@gmail.com
 
 <!---
 MaCisHacked/MaCisHacked is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
