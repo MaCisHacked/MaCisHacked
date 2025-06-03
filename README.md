@@ -1,4 +1,4 @@
--👋 Hi, I'm Marz, a cybersecurity enthusiast currently studying Computer Science with a focus on Cybersecurity. 
+-👋 Hi, I'm Marz, a cybersecurity enthusiast currently studying Computer Science majoring in Cybersecurity. 
 Feel free to explore, contribute, or connect with me if you share similar interests!
 
 -About Me
