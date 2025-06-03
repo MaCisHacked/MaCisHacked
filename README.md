@@ -9,9 +9,9 @@ Feel free to explore, contribute, or connect with me if you share similar intere
 
 🌱 I'm always learning and improving my skills in penetration testing, vulnerability assessments, and threat mitigation.
 
-🔭 In my spare time, I like exploring open-source security tools.
+🔭 In my spare time, I like exploring open-source security tools anf bug bounty programs.
 
-📫 How to reach me - mail me at marzanchoa@gmail.com
+📫 How to reach me - mail me at rongfidato@gmail.com
 
 <!---
 MaCisHacked/MaCisHacked is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
